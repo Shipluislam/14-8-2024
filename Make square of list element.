@@ -1,0 +1,5 @@
+Make square of list element.
+l=[1,2,3,4,5]
+print(l)
+s=[x*2 for x in l]
+print(s)
